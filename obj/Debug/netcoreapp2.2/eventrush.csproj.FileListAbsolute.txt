@@ -1,0 +1,14 @@
+/home/sopho/workz/eventrush/eventrush/bin/Debug/netcoreapp2.2/eventrush.deps.json
+/home/sopho/workz/eventrush/eventrush/bin/Debug/netcoreapp2.2/eventrush.runtimeconfig.json
+/home/sopho/workz/eventrush/eventrush/bin/Debug/netcoreapp2.2/eventrush.runtimeconfig.dev.json
+/home/sopho/workz/eventrush/eventrush/bin/Debug/netcoreapp2.2/eventrush.dll
+/home/sopho/workz/eventrush/eventrush/bin/Debug/netcoreapp2.2/eventrush.pdb
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.csprojAssemblyReference.cache
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.csproj.CoreCompileInputs.cache
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.RazorAssemblyInfo.cache
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.RazorAssemblyInfo.cs
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.AssemblyInfoInputs.cache
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.AssemblyInfo.cs
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.RazorTargetAssemblyInfo.cache
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.dll
+/home/sopho/workz/eventrush/eventrush/obj/Debug/netcoreapp2.2/eventrush.pdb
